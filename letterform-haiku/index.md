@@ -2,7 +2,7 @@
 
 ## The Letterform
 
-![A black, Gothic-inspired letter T. A wavy, blade-like stroke forms the top bar. Below it, a long curve sweeps down and around to the left, and a thin vertical hairline runs down the right side.](img/letterform-t.png)
+![A black, Gothic-inspired letter T with a wavy, blade-like top bar, a long curve that sweeps down and around to the left like a crescent moon, and a thin vertical hairline on the right like a harp string. It feels dark and elegant, decorative but still easy to read as a T.](img/letterform-t.png)
 
 ## The Haiku
 
