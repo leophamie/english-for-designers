@@ -1,12 +1,18 @@
 # How I made Letterform T
 
+[Download the Letterform presentation (PDF)](letterform-t.pdf)
+
 ## Process
 
 1. I started by looking at images of Gothic type. I wanted my letter to be ornamental and decorative, but still easy to read.
 
-2. I tried to add my own twist to the Gothic style. Instead of building the T from just two straight lines, I used a wavy top stroke, a long curve that sweeps around to the left, and a thin hairline on the right.
+2. To learn the style, I lettered a whole phrase in Gothic type: "Maybe in another life we'd be more human." It helped me understand the sharp strokes and curves before I focused on one letter.
 
-3. The final T looks very different from a T drawn the traditional way, but it still reads as the letter T. That balance between decoration and legibility is what I like most about it.
+   ![The phrase "Maybe in another life we'd be more human" hand-lettered in black Gothic capitals across two lines. The letters are tall and narrow, with sharp, broken strokes and thin hairlines, and they feel dramatic and a little rough.](img/gothic-lettering-maybe-in-another-life.png)
+
+3. I tried to add my own twist to the Gothic style. Instead of building the T from just two straight lines, I used a wavy top stroke, a long curve that sweeps around to the left, and a thin hairline on the right.
+
+4. The final T looks very different from a T drawn the traditional way, but it still reads as the letter T. That balance between decoration and legibility is what I like most about it.
 
 ## Haiku drafts
 
