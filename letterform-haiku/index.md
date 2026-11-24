@@ -13,3 +13,7 @@ one string makes a harp
 ## How I made it
 
 Read about the ideas and references behind this piece: [How I made this Letterform](process.md).
+
+---
+
+AI-assisted

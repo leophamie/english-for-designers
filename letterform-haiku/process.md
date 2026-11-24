@@ -35,3 +35,7 @@ one string makes a harp
 ## Back to the finished piece
 
 [The finished Letterform and Haiku](index.md)
+
+---
+
+AI-assisted
